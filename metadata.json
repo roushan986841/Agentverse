@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Agentverse",
+  "description": "A web interface for the Agentverse intelligent agent library, providing a detailed look at agents like the Segmentation Agent for sales and marketing teams.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
